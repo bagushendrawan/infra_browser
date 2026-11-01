@@ -87,3 +87,8 @@ websites. They cover actions, delayed rendering, session isolation, reset/close,
 capacity races, serialization, cancellation, and browser disconnection.
 
 Validation: run the checks above and the shared HTTP smoke suite on the deployment host.
+
+## Original resources
+
+- [Playwright for Python](https://github.com/microsoft/playwright-python) — upstream browser automation library.
+- [Playwright Python documentation](https://playwright.dev/python/) — installation, browser management, and API documentation.
